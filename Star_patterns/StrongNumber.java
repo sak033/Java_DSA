@@ -1,6 +1,6 @@
 class StrongNumber{
     public static void main(String[] args){
-        int num=145;
+        int num=135;
         int res=SumOfFact(num);
 
         if(num==res){
