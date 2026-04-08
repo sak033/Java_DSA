@@ -11,7 +11,7 @@ class AutomorphicNumber{
         }
         int new1=0;
         while(rev>0){
-             int last=sqr%10;
+             int last=rev%10;
               new1=last+new1*10;
              if(new1==num){
                 System.out.print("yess");
