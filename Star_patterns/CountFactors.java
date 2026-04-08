@@ -7,6 +7,6 @@ class CountFactors{
                 count++;
             }
         }
-        System.out.println("factors" + n + " is: " + count);
+        System.out.println(count);
     }
 }
